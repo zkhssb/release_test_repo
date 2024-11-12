@@ -1,0 +1,12 @@
+{
+  "list": [
+    {
+      "name": "tw1",
+      "url": "http://tw1.hualib.com"
+    },
+    {
+      "name": "cn1",
+      "url": "http://cn1.hualib.com:5000"
+    }
+  ]
+}
