@@ -1,20 +1,12 @@
 {
   "list": [
     {
-      "name": "tw1",
-      "url": "http://tw1.hualib.com"
+      "name": "cf1",
+      "url": "http://cf1.hualib.com"
     },
     {
-      "name": "cn1",
-      "url": "http://cn1.hualib.com:5000"
-    },
-    {
-      "name": "test",
-      "url": "https://www.baidu.com/"
-    },
-    {
-      "name": "test2",
-      "url": "https://www.baidu2.com/"
+      "name": "chongqing",
+      "url": "http://chongqing.hualib.com:5000"
     }
   ]
 }
