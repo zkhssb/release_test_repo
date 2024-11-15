@@ -1,10 +1,6 @@
 {
   "list": [
     {
-      "name": "cf1",
-      "url": "http://cf1.hualib.com"
-    },
-    {
       "name": "chongqing",
       "url": "http://chongqing.hualib.com:5000"
     }
