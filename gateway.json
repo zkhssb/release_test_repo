@@ -1,7 +1,11 @@
 {
   "list": [
     {
-      "name": "chongqing",
+      "name": "chongqing_https",
+      "url": "https://chongqing.hualib.com:5001"
+    },
+    {
+      "name": "chongqing_http",
       "url": "http://chongqing.hualib.com:5000"
     }
   ]
