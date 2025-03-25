@@ -1,12 +1,24 @@
 {
-  "list": [
-    {
-      "name": "chongqing_https",
-      "url": "https://chongqing.hualib.com:5001"
-    },
-    {
-      "name": "chongqing_http",
-      "url": "http://chongqing.hualib.com:5000"
-    }
-  ]
+    "list": [
+        {
+            "name": "chongqing_https",
+            "url": "https://chongqing.hualib.com:5001"
+        },
+        {
+            "name": "chongqing_http",
+            "url": "http://chongqing.hualib.com:5000"
+        },
+        {
+            "name": "hk_http",
+            "url": "http://hk-2.lcf.im:29240"
+        },
+        {
+            "name": "jp_osaka_http",
+            "url": "http://jp-osaka-1.lcf.im:59803"
+        },
+        {
+            "name": "tw_taipei_http",
+            "url": "http://tw-taipei-1.lcf.im:19867"
+        }
+    ]
 }
