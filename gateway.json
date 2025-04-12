@@ -1,6 +1,10 @@
 {
     "list": [
         {
+            "name": "chongqing_icp_https",
+            "url": "https://chongqing.inectar.cn:5001"
+        },
+        {
             "name": "chongqing_icp_http",
             "url": "http://chongqing.inectar.cn:5000"
         },
